@@ -1,4 +1,4 @@
-<h1>KONTOL</h1>
+<h1>LOL</h1>
 
 ## Instalasi
 #### Via Git
